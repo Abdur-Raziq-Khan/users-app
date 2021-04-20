@@ -1,0 +1,6 @@
+Instructions for the tasks to work..
+
+1) Need to install node and mongodb on system.
+2) npm install commond inside directory through CMD.
+3) npm start 
+4) Import UserApp api tasks file to postman and check apis.

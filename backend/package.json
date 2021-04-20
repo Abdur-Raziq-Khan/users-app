@@ -1,0 +1,25 @@
+{
+  "name": "UserApp",
+  "version": "1.0.0",
+  "description": "Registeration of user and CRUD operation.",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "accesscontrol": "^2.2.1",
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "joi-objectid": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.6.9",
+    "nodemailer": "^6.5.0"
+  }
+}
